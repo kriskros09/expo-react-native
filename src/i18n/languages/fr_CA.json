@@ -1,0 +1,79 @@
+{
+    "current" : "fr",
+    "olang" : "fr",
+    "loginUsingFacebook" : "Se connecter avec Facebook",
+    "loginUsingGoogle" : "Se connecter avec Google",
+    "googleerror" : "Impossible de se connecter à ton compte Google. Code : ",
+    "login" : "Se connecter",
+    "searchForAnArticle" : "Rechercher un article",
+    "noArticleInFav" : "Tu n'as pas d'article dans tes favoris.",
+    "useHeartIcon" : "Utilise l'icone en forme de coeur ",
+    "onArticleForQuickAccess" : " pour ajouter un article à ta liste de favoris.",
+    "logout" : "Déconnexion",
+    "loadingBigList" : "On prépare ta liste personnalisée",
+  
+    "yourehere" : "Te voilà enfin!",
+    "letscreatefeed" : "Qu'est-ce que tu aimerais voir dans ta liste de contenu?",
+    "idlike_personal" : "J'aimerais personaliser ma liste",
+    "idlike_everything_currentlang" : "J'aimerais voir tout le contenu en français",
+    "idlike_everything" : "J'aimerais voir tout le contenu",
+  
+    "whatlanguage" : "En quelle language aimerais-tu voir le contenu?",
+    "wetalkwhat" : "¿qué tal?",
+    "readinfrench" : "J'aimerais seulement voir du contenu francophone",
+    "readinenglish" : "J'aimerais seulement voir du contenu anglophone",
+    "readineverything" : "J'aimerais voir du contenu dans les deux langues",
+  
+    "localcontentpresentation" : "Local, c'est mieux",
+    "whichcity" : "Quelles villes t'intéressent le plus?",
+  
+    "contentyoullcrave" : "Juste du croquant",
+    "whichinterest" : "Qu'est-ce qui t'intéresse le plus?",
+  
+    "next" : "Suivant",
+    "wereready" : "Tout est prêt.",
+    "letsgo" : "C'est parti",
+    "justamoment" : "Juste un instant...",
+  
+    "preferences" : "Préférences",
+    "contentlang" : "Langue du contenu",
+    "french" : "Français",
+    "english" : "Anglais",
+    "both" : "Les deux",
+  
+    "cities" : "Contenu local - Les villes",
+    "interests" : "Intérêts",
+  
+    "feedstyle" : "Type de liste d'articles",
+    "seeeverything" : "Voir tous les articles",
+    "seecurlang" : "Voir tous les articles en français",
+    "seecustom" : "Voir des articles selon mes préférences",
+  
+    "notfoundtitle" : "Où sommes-nous?",
+    "notfoundmessage" : "Cet article n'existe pas. Il a possiblement été retiré du site web.",
+    "returntolist" : "Retour",
+  
+    "account" : "Mon compte",
+    "destroyaccount" : "Détruire mes informations",
+  
+    "dates" : {
+        "ilya" : "Il y a ",
+        "ago" : "",
+  
+        "year" : "an",
+        "years" : "ans",
+        "week" : "semaine",
+        "weeks" : "semaines",
+        "months" : "mois",
+        "month" : "mois",
+        "days" : "jours",
+        "day" : "jour",
+        "hours" : "heures",
+        "hour" : "heure",
+        "minutes" : "minutes",
+        "minute" : "minute",
+  
+        "momentsago" : "À l'instant"
+    }
+  }
+  

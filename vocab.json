@@ -1,0 +1,159 @@
+{
+    "en" : {
+        "current" : "en",
+        "olang" : "fr",
+        "loginUsingFacebook" : "Login using Facebook",
+        "loginUsingGoogle" : "Login using Google",
+        "googleerror" : "Could not connect to your Google account. Code : ",
+        "login" : "Login",
+        "searchForAnArticle" : "Search for an article",
+        "noArticleInFav" : "You don't have any article in your favourite.",
+        "useHeartIcon" : "Use the heart icon ",
+        "onArticleForQuickAccess" : " on an article for quicker access.",
+        "logout" : "Logout",
+        "loadingBigList" : "Loading your personalized list",
+
+        "yourehere" : "You're here!",
+        "letscreatefeed" : "Let's create your personal feed.",
+        "idlike_personal" : "I'd like a personalized feed",
+        "idlike_everything_currentlang" : "I'd like to see everything in English",
+        "idlike_everything" : "I'd like to see everything",
+
+        "whatlanguage" : "In which language would you like the content?",
+        "wetalkwhat" : "¿qué tal?",
+        "readinfrench" : "I'd like to only see French content",
+        "readinenglish" : "I'd like to only see English content",
+        "readineverything" : "I'd like to see content in both languages",
+
+        "localcontentpresentation" : "Local is better",
+        "whichcity" : "Which cities would you like to stay informed about?",
+
+        "contentyoullcrave" : "Content you'll crave",
+        "whichinterest" : "What are you interested in?",
+
+        "next" : "Next",
+        "wereready" : "We're all set.",
+        "letsgo" : "Let's go",
+        "justamoment" : "Just a moment...",
+
+        "preferences" : "Preferences",
+        "contentlang" : "Content language",
+        "french" : "French",
+        "english" : "English",
+        "both" : "Both",
+
+        "cities" : "Local content - Cities",
+        "interests" : "Interests",
+
+        "feedstyle" : "Article feed style",
+        "seeeverything" : "See all articles",
+        "seecurlang" : "See all English articles",
+        "seecustom" : "See customized feed",
+
+        "notfoundtitle" : "Where are we?",
+        "notfoundmessage" : "We could not find this article. Maybe it was removed from the website.",
+        "returntolist" : "Go back",
+
+        "account" : "Account",
+        "destroyaccount" : "Destroy my data",
+
+        "dates" : {
+            "ilya" : "",
+            "ago" : " ago",
+
+            "year" : "year",
+            "years" : "years",
+            "week" : "week",
+            "weeks" : "weeks",
+            "months" : "months",
+            "month" : "month",
+            "days" : "days",
+            "day" : "day",
+            "hours" : "hours",
+            "hour" : "hour",
+            "minutes" : "minutes",
+            "minute" : "minute",
+
+            "momentsago" : "Moments ago"
+        }
+    },
+
+    "fr" : {
+        "current" : "fr",
+        "olang" : "fr",
+        "loginUsingFacebook" : "Se connecter avec Facebook",
+        "loginUsingGoogle" : "Se connecter avec Google",
+        "googleerror" : "Impossible de se connecter à ton compte Google. Code : ",
+        "login" : "Se connecter",
+        "searchForAnArticle" : "Rechercher un article",
+        "noArticleInFav" : "Tu n'as pas d'article dans tes favoris.",
+        "useHeartIcon" : "Utilise l'icone en forme de coeur ",
+        "onArticleForQuickAccess" : " pour ajouter un article à ta liste de favoris.",
+        "logout" : "Déconnexion",
+        "loadingBigList" : "On prépare ta liste personnalisée",
+
+        "yourehere" : "Te voilà enfin!",
+        "letscreatefeed" : "Qu'est-ce que tu aimerais voir dans ta liste de contenu?",
+        "idlike_personal" : "J'aimerais personaliser ma liste",
+        "idlike_everything_currentlang" : "J'aimerais voir tout le contenu en français",
+        "idlike_everything" : "J'aimerais voir tout le contenu",
+
+        "whatlanguage" : "En quelle language aimerais-tu voir le contenu?",
+        "wetalkwhat" : "¿qué tal?",
+        "readinfrench" : "J'aimerais seulement voir du contenu francophone",
+        "readinenglish" : "J'aimerais seulement voir du contenu anglophone",
+        "readineverything" : "J'aimerais voir du contenu dans les deux langues",
+
+        "localcontentpresentation" : "Local, c'est mieux",
+        "whichcity" : "Quelles villes t'intéressent le plus?",
+
+        "contentyoullcrave" : "Juste du croquant",
+        "whichinterest" : "Qu'est-ce qui t'intéresse le plus?",
+
+        "next" : "Suivant",
+        "wereready" : "Tout est prêt.",
+        "letsgo" : "C'est parti",
+        "justamoment" : "Juste un instant...",
+
+        "preferences" : "Préférences",
+        "contentlang" : "Langue du contenu",
+        "french" : "Français",
+        "english" : "Anglais",
+        "both" : "Les deux",
+
+        "cities" : "Contenu local - Les villes",
+        "interests" : "Intérêts",
+
+        "feedstyle" : "Type de liste d'articles",
+        "seeeverything" : "Voir tous les articles",
+        "seecurlang" : "Voir tous les articles en français",
+        "seecustom" : "Voir des articles selon mes préférences",
+
+        "notfoundtitle" : "Où sommes-nous?",
+        "notfoundmessage" : "Cet article n'existe pas. Il a possiblement été retiré du site web.",
+        "returntolist" : "Retour",
+
+        "account" : "Mon compte",
+        "destroyaccount" : "Détruire mes informations",
+
+        "dates" : {
+            "ilya" : "Il y a ",
+            "ago" : "",
+
+            "year" : "an",
+            "years" : "ans",
+            "week" : "semaine",
+            "weeks" : "semaines",
+            "months" : "mois",
+            "month" : "mois",
+            "days" : "jours",
+            "day" : "jour",
+            "hours" : "heures",
+            "hour" : "heure",
+            "minutes" : "minutes",
+            "minute" : "minute",
+
+            "momentsago" : "À l'instant"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "react-native-narcity-app",
+    "description": "Narcity app",
+    "slug": "react-native-narcity-app",
+    "privacy": "public",
+    "sdkVersion": "27.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app.png",
+    "loading": {
+      "icon": "./assets/icons/loading.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "splash": {
+      "image": "./assets/images/logo.png",
+      "backgroundColor": "#FF2634"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "facebookScheme": "fb1109268392570460",
+    "facebookAppId": "1468563456738953",
+    "facebookDisplayName": "Narcity"
+  }
+}

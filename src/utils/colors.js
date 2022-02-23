@@ -1,0 +1,17 @@
+export const colors = {
+    WHITE: '#FFFFFF',
+    BLACK: '#000000',
+    GREY: '#DDDDDD',
+    LIGHT_WHITE: '#EDEDED',
+    LIGHT_GREY: '#B6B6B6',
+    DARKER_GREY: '#777777',
+    NARCITY_RED: '#FF2634',
+    FACEBOOK_BLUE: '#3B5998',
+    CHARCOAL_BLACK: '#292929',
+    TITLE_COLOR: '#5F5F5F',
+    ONBOARD_TITLE: '#224466',
+    BG_GREY: "#EEEEEE",
+    PREFBTN_TEXT_COLOR: "#333",
+    TRANSPARENT: '#00000000',
+  };
+  
